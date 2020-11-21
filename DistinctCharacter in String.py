@@ -2,7 +2,7 @@
 """
 Created on Sat Nov 21 17:59:15 2020
 
-@author: SH
+@author: Sharful Haque
 """
 
 NO_OF_CHARS = 256
